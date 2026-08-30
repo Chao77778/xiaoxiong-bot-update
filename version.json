@@ -1,6 +1,6 @@
 {
     "date": "2026-08-30",
-    "file": "update.zip",
-    "version": "2.1.0",
-    "notes": "修复网站推送开关默认状态、更新功能UI布局、多个bug修复"
+    "file": "https://xygmyx.cn/wp-content/uploads/2026/08/20260830142521765-update.zip",
+    "version": "2.1.1",
+    "notes": "修复网站推送开关默认状态、更新功能UI布局、多个bug修复，更新地址改为GitHub"
 }
