@@ -1,6 +1,6 @@
 {
     "date": "2026-08-30",
-    "file": "https://xygmyx.cn/wp-content/uploads/2026/08/20260830142725992-update_v2.1.1.zip",
+    "file": "https://raw.githubusercontent.com/Chao77778/xiaoxiong-bot-update/main/update_v2.1.1.zip",
     "version": "2.1.1",
-    "notes": "修复网站推送开关默认状态、更新功能UI布局、多个bug修复，更新地址改为GitHub"
+    "notes": "修复网站推送开关默认状态、更新功能UI布局、多个bug修复，全部文件托管在GitHub"
 }
