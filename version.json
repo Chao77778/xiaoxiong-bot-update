@@ -1,6 +1,6 @@
-{
-    "date": "2026-09-06",
-    "file": "https://raw.githubusercontent.com/Chao77778/xiaoxiong-bot-update/main/update_v2.1.3.zip",
-    "version": "2.1.3",
-    "notes": "修复在线更新在Windows Server 2012上解压失败问题（Expand-Archive不存在），改用extract-zip纯Node.js解压兼容PowerShell 4.0；修复入群欢迎Markdown消息发送失败、按钮样式修改不生效；替换canvas为@napi-rs/canvas不依赖VC++运行库；补全默认配置"
+﻿{
+    "releaseNotes":  "修复默认连接模式为官方机器人模式，补全修仙模块和数据文件",
+    "releaseDate":  "2026-09-06",
+    "version":  "2.1.4",
+    "downloadUrl":  "https://raw.githubusercontent.com/Chao77778/xiaoxiong-bot-update/main/update_v2.1.4.zip"
 }
